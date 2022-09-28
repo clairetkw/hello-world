@@ -1,4 +1,4 @@
 # hello-world
-test repository!
+test repository
 
 Trying to navigate my way around Github! 
